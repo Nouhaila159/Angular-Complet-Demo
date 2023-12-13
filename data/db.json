@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "ohtman",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvaHRtYW4iLCJpYXQiOjE1MTYyMzkwMjIsImV4cCI6MTUxNjIzOTAyMiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4ODg4L2F1dGgiLCJmaXJzdG5hbWUiOiJPaHRtYW4iLCJsYXN0bmFtZSI6IkxBVFJBQ0hFIiwiZW1haWwiOiJvaHRtYW4xMjNAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.mkrB3Rlzs1NYmeRtd864RCJGmh99IRpacBvFr61mNY4"
+    },
+    {
+      "id": "fatna",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmYXRuYSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsImZpcnN0bmFtZSI6IkZhdG5hIiwibGFzdG5hbWUiOiJGQURJTCIsImVtYWlsIjoiZmF0bmFmYWRpbDMzQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.BYr3GZyS6mTtRtIWaEb5boGE-AdE3tSpAvzJ_JwRjGA"
+    },
+    {
+      "id": "nouhaila",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJub3VoYWlsYSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsImZpcnN0bmFtZSI6Ik5vdWhhaWxhIiwibGFzdG5hbWUiOiJEQU5PVU5JIiwiZW1haWwiOiJub3VoYWlsYWRhbm91bmlAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.qxRq_DoAYdcKfaLh_jXqu-FgyR-SPh2bPR1tHuWDvAI"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 12000,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 5000,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 2000,
+      "checked": true
+    },
+    {
+      "name": "Ipad",
+      "price": "20000",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "Iphone",
+      "price": "15000",
+      "checked": true
+    },
+    {
+      "name": "PC",
+      "price": "1500",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "hhju",
+      "price": 0,
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Dell",
+      "price": "2000",
+      "checked": true,
+      "id": 9
+    }
+  ]
+}
