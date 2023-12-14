@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "ohtman",
-      "password": "MTIzNA==",
+      "password": "MTU5MjAyMA==",
       "roles": [
         "USER"
       ],
@@ -10,7 +10,7 @@
     },
     {
       "id": "fatna",
-      "password": "MTIzNA==",
+      "password": "MTU5MjAyMA==",
       "roles": [
         "USER"
       ],
@@ -18,7 +18,7 @@
     },
     {
       "id": "nouhaila",
-      "password": "MTIzNA==",
+      "password": "MTU5MjAyMA==",
       "roles": [
         "USER",
         "ADMIN"
