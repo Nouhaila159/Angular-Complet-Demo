@@ -179,10 +179,10 @@ or
 <img src="angular/jwt-decode.png">
 
 <h4>Administrateur</h4>
-<img src="angular/admin.PNG">
+<img src="angular/admin.png">
 
 <h4>Utilisateur</h4>
-<img src="angular/user.PNG">
+<img src="angular/user.png">
 
 <p>Ensuite, effectuons l'installation de l'outil Base64 Helper.</p>
 <img src="angular/base64.jpeg">
