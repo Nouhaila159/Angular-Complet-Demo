@@ -68,12 +68,6 @@
       "price": 0,
       "checked": false,
       "id": 8
-    },
-    {
-      "name": "Dell",
-      "price": "2000",
-      "checked": true,
-      "id": 9
     }
   ]
 }

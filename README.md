@@ -1,4 +1,4 @@
-Réalisé par : DANOUNI Nouhaila ---------------------------------------------------------------------------------------------------------</p>
+Réalisé par : DANOUNI Nouhaila ------------------------------------------------------------------------------</p>
 
 <h1>TP N°5 : Utilisation d'Angular pour la Gestion des Produits - Rapport
 </h1>
